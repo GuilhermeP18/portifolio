@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+build
+.cache
+.next
+.nuxt
+.output
+.vercel
+.turbo
+coverage
+out
+tmp
+temp
+*.tsbuildinfo
+*.eslintcache
+*.parcel-cache
+vite.svg
+vite.config.ts
+vite.config.mjs
+vite.config.cjs
+vite-env.d.ts
+*.local
+*.env
+*.env.*
+!.env.example
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*/
+.nfs*
+*.sw?
