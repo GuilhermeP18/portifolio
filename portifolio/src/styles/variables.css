@@ -1,0 +1,20 @@
+:root {
+--azul-primario: #0084FF;
+--texto-escuro: #333333;
+--texto-claro: #666666;
+--bg-white: #FFFFFF;
+--bg-light: #F5F5F5;
+--border-color: #E0E0E0;
+
+--spacing-xs: 4px;
+--spacing-sm: 8px;
+--spacing-md: 16px;
+--spacing-lg: 24px;
+--spacing-xl: 32px;
+--spacing-xxl: 40px;
+
+--font-main: 'Arial', sans-serif;
+--font-size-h1: 48px;
+--font-size-h2: 32px;
+--font-size-body: 16px;
+}
