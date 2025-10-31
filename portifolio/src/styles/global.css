@@ -1,0 +1,12 @@
+@import './variables.css';
+@import './reset.css';
+
+body{
+    font-family: var(--font-main);
+    color: var(--texto-escuro);
+    background-color: var(--bg-white);
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
