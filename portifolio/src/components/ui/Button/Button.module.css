@@ -1,0 +1,26 @@
+.button {
+padding: 12px 24px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-size: var(--font-size-body);
+font-weight: bold;
+transition: all 0.3s;
+}
+.button-primary {
+background: var(--primary-blue);
+color: white;
+}
+.button-primary:hover {
+opacity: 0.9;
+transform: translateY(-2px);
+}
+.button-secondary {
+background: transparent;
+color: var(--primary-blue);
+border: 2px solid var(--primary-blue);
+}
+.button-secondary:hover {
+background: var(--primary-blue);
+color: white;
+}
